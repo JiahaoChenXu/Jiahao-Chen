@@ -69,7 +69,7 @@
 
 ---
 
-### 🧑‍💼 My CV — Web Résumé
+### 🧑‍💼 My CV Web
 > Personal curriculum vitae built as a fully responsive static web page. Semantic HTML5, CSS animations, print mode support and deployed on Vercel.
 
 [![Repo](https://img.shields.io/badge/Repo-JiahaoChenXu%2FMyCV-181717?style=for-the-badge&logo=github)](https://github.com/JiahaoChenXu/MyCV)
@@ -81,9 +81,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=jiahaochenxus&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jiahaochenxus&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiahaochenxus&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=JiahaoChenXu&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JiahaoChenXu&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoChenXu&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
