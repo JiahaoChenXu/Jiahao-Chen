@@ -46,6 +46,7 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -53,6 +54,28 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### ✈️ Travel Dashboard
+> Interactive web dashboard to explore travel info for cities around the world — weather, currency converter, and travel tips. Built with vanilla JS and external APIs.
+
+[![Repo](https://img.shields.io/badge/Repo-JiahaoChenXu%2FJS-181717?style=for-the-badge&logo=github)](https://github.com/JiahaoChenXu/JS)
+[![Live](https://img.shields.io/badge/Live%20Demo-js--theta--five.vercel.app-000000?style=for-the-badge&logo=vercel)](https://js-theta-five.vercel.app)
+
+**Stack:** `HTML5` `CSS3` `JavaScript (ES6+)` `Fetch API` `OpenMeteo` `ExchangeRate-API`
+
+---
+
+### 🧑‍💼 My CV — Web Résumé
+> Personal curriculum vitae built as a fully responsive static web page. Semantic HTML5, CSS animations, print mode support and deployed on Vercel.
+
+[![Repo](https://img.shields.io/badge/Repo-JiahaoChenXu%2FMyCV-181717?style=for-the-badge&logo=github)](https://github.com/JiahaoChenXu/MyCV)
+[![Live](https://img.shields.io/badge/Live%20Demo-vercel--murex--nine.vercel.app-000000?style=for-the-badge&logo=vercel)](https://vercel-murex-nine.vercel.app)
+
+**Stack:** `HTML5` `CSS3` `Flexbox` `CSS Grid` `@media print`
 
 ---
 
