@@ -37,7 +37,7 @@
 
 - 🎓 Currently studying **ASIX** (Administració de Sistemes Informàtics en Xarxa) at **La Salle Gràcia, Barcelona**
 - 🌱 Always learning new things about systems, networks, and web development
-- 🛠️ Interested in hardware, software, Linux administration and scripting
+- 🛠️ Interested in hardware, software, Pentesting and scripting
 - 🌍 I speak **English**, **Spanish** and **Catalan**
 
 ---
