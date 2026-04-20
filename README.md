@@ -89,7 +89,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=jiahao-cx&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JiahaoChenXu&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
