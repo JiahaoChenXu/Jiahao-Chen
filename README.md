@@ -81,9 +81,15 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=JiahaoChenXu&hide=contribs,prs)
-![](https://nirzak-streak-stats.vercel.app/?user=JiahaoChenXu&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoChenXu&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JiahaoChenXu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+
+<img src="https://streak-stats.demolab.com?user=JiahaoChenXu&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoChenXu&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="140"/>
+
+</div>
 
 ---
 
