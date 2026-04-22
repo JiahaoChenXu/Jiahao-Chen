@@ -81,7 +81,7 @@
 
 ## 📊 GitHub Stats
 
-[![Estadísticas de GitHub de Jiahao](https://github-readme-stats.vercel.app/api?username=JiahaoChenXu&theme=shadow_blue&hide_border=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=JiahaoChenXu&hide=contribs,prs)
 ![](https://nirzak-streak-stats.vercel.app/?user=JiahaoChenXu&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoChenXu&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
